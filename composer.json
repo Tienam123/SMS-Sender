@@ -1,0 +1,17 @@
+{
+    "name": "drtie/sms-sender",
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav",
+            "email": "dr.tienam123@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
